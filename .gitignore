@@ -36,8 +36,8 @@ build/
 *.war
 *.ear
 
-# Ignore all JARs (optional — remove if you want to commit libraries)
-*.jar
+## Ignore all JARs (optional — remove if you want to commit libraries)
+#*.jar
 
 ### Logs ###
 *.log
